@@ -1,0 +1,1 @@
+# Aplicacion-de-Presupuesto- Esta es una aplicacion de presupuesto creada con JavaScript, HTML y CSS en la que estoy trabajando todavia. La finalidad de la misma es registrar ingresos, gastos y devolver el presupuesto disponible y el porcentaje de ingresos que representa cada gasto. Tambien permite agregar o eliminar ingresos o gastos
